@@ -1,0 +1,7 @@
+{
+  "name": "CSSarchive",
+  "version": "1.0.0",
+  "description": "CSS archive for lee",
+  "main": "index.js",
+  "license": "MIT"
+}
